@@ -1,0 +1,350 @@
+<!--
+DIVI CODE MODULE
+1. In WordPress, create/edit a page with Divi Builder.
+2. Add a Regular Section > Row (1 column) > Code Module.
+3. Paste this entire snippet into the Code Module.
+4. Replace the demo links and images with your own assets.
+-->
+<div id="saas-landing">
+  <header class="sl-nav">
+    <a class="sl-brand" href="#" aria-label="Nexa home">
+      <span class="sl-brand-mark">N</span><span>Nexa<span class="sl-brand-light">Books</span></span>
+    </a>
+    <button class="sl-menu-toggle" aria-label="Buka menu" aria-expanded="false">☰</button>
+    <nav class="sl-nav-links" aria-label="Navigasi utama">
+      <a href="#fitur">Fitur <span>⌄</span></a>
+      <a href="#solusi">Solusi <span>⌄</span></a>
+      <a href="#integrasi">Integrasi</a>
+      <a href="#harga">Harga</a>
+      <a href="#artikel">Insight</a>
+    </nav>
+    <div class="sl-nav-actions">
+      <a class="sl-login" href="#login">Masuk</a>
+      <a class="sl-button sl-button-small" href="#demo">Coba Gratis <span>↗</span></a>
+    </div>
+  </header>
+
+  <main>
+    <section class="sl-hero">
+      <div class="sl-hero-copy">
+        <div class="sl-eyebrow"><span class="sl-eyebrow-dot"></span> PLATFORM BISNIS TERINTEGRASI</div>
+        <h1>Kelola bisnis lebih mudah. <span>Ambil keputusan lebih cerdas.</span></h1>
+        <p class="sl-hero-description">Satu platform untuk mengelola keuangan, penjualan, stok, dan operasional bisnis Anda — tanpa proses yang rumit.</p>
+        <div class="sl-hero-buttons">
+          <a class="sl-button" href="#demo">Mulai Gratis <span>↗</span></a>
+          <a class="sl-button sl-button-outline" href="#fitur"><span class="sl-play">▶</span> Jelajahi Fitur</a>
+        </div>
+        <div class="sl-trust-row">
+          <div class="sl-avatar-stack" aria-hidden="true"><span>R</span><span>A</span><span>D</span><span>+</span></div>
+          <div><strong>Dirancang untuk bisnis yang bertumbuh</strong><small>Keuangan rapi, operasional terkendali.</small></div>
+        </div>
+      </div>
+      <div class="sl-hero-art">
+        <div class="sl-orb sl-orb-one"></div><div class="sl-orb sl-orb-two"></div>
+        <div class="sl-dashboard">
+          <div class="sl-dash-top"><div><span class="sl-dash-dot"></span><span class="sl-dash-dot"></span><span class="sl-dash-dot"></span></div><span class="sl-dash-period">Ringkasan bisnis⌄</span></div>
+          <div class="sl-dash-heading"><div><small>Total pendapatan</small><h3>Rp248.650.000</h3><span class="sl-growth">↗ 18,6% <em>dari bulan lalu</em></span></div><div class="sl-dash-icon">↗</div></div>
+          <div class="sl-chart">
+            <div class="sl-chart-y"><span>250 jt</span><span>200 jt</span><span>150 jt</span><span>100 jt</span></div>
+            <svg viewBox="0 0 420 150" role="img" aria-label="Grafik pendapatan meningkat" preserveAspectRatio="none">
+              <defs><linearGradient id="sl-chart-fill" x1="0" x2="0" y1="0" y2="1"><stop offset="0%" stop-color="#ee4266" stop-opacity=".22"/><stop offset="100%" stop-color="#ee4266" stop-opacity="0"/></linearGradient></defs>
+              <path d="M0 120 C25 110 34 122 58 95 S95 104 120 76 S160 90 185 62 S220 80 245 50 S280 66 310 38 S350 54 375 24 S400 25 420 10 L420 150 L0 150 Z" fill="url(#sl-chart-fill)"/>
+              <path d="M0 120 C25 110 34 122 58 95 S95 104 120 76 S160 90 185 62 S220 80 245 50 S280 66 310 38 S350 54 375 24 S400 25 420 10" fill="none" stroke="#ed4267" stroke-width="3" stroke-linecap="round"/>
+              <circle cx="310" cy="38" r="5" fill="#fff" stroke="#ed4267" stroke-width="3"/>
+            </svg>
+            <div class="sl-chart-x"><span>Jan</span><span>Feb</span><span>Mar</span><span>Apr</span><span>Mei</span><span>Jun</span><span>Jul</span></div>
+          </div>
+          <div class="sl-dash-bottom">
+            <div class="sl-mini-stat"><span class="sl-mini-icon sl-mini-pink">▤</span><div><small>Penjualan</small><strong>1.284 transaksi</strong></div><b>↗</b></div>
+            <div class="sl-mini-stat"><span class="sl-mini-icon sl-mini-purple">◈</span><div><small>Arus kas</small><strong>Sehat</strong></div><b>↗</b></div>
+          </div>
+        </div>
+        <div class="sl-float-card sl-float-top"><span class="sl-float-check">✓</span><div><strong>Pembayaran diterima</strong><small>Invoice #INV-2048 · Baru saja</small></div><b>+ Rp8,5 jt</b></div>
+        <div class="sl-float-card sl-float-bottom"><span class="sl-float-box">▦</span><div><strong>Laporan siap</strong><small>Performa bulan ini</small></div><span class="sl-float-arrow">↗</span></div>
+      </div>
+    </section>
+
+    <section class="sl-proof" aria-label="Keunggulan platform">
+      <p>SEMUA YANG DIBUTUHKAN UNTUK BISNIS YANG LEBIH TERATUR</p>
+      <div class="sl-proof-items"><span>✳ <b>Keuangan</b> terpantau</span><span>◈ <b>Data</b> terpusat</span><span>⌁ <b>Laporan</b> real-time</span><span>✓ <b>Alur kerja</b> efisien</span></div>
+    </section>
+
+    <section class="sl-features" id="fitur">
+      <div class="sl-section-heading"><div><span class="sl-kicker">FITUR UNGGULAN</span><h2>Semua terkoneksi.<br><span>Bisnis bergerak maju.</span></h2></div><p>Kurangi pekerjaan manual dan fokus pada hal yang benar-benar mengembangkan bisnis Anda.</p></div>
+      <div class="sl-feature-grid">
+        <article class="sl-feature-card sl-feature-large">
+          <div class="sl-feature-copy"><span class="sl-feature-icon sl-icon-pink">↗</span><h3>Keuangan dalam kendali</h3><p>Pantau arus kas, catat transaksi, dan lihat performa keuangan dalam satu tampilan yang mudah dipahami.</p><a href="#keuangan">Pelajari fitur <span>→</span></a></div>
+          <div class="sl-feature-visual sl-finance-visual"><div class="sl-finance-card"><small>Saldo kas</small><strong>Rp86.420.000</strong><div class="sl-finance-bars"><i style="height:38%"></i><i style="height:54%"></i><i style="height:45%"></i><i style="height:70%"></i><i style="height:61%"></i><i style="height:88%"></i><i style="height:76%"></i><i style="height:100%"></i></div><div class="sl-finance-labels"><span>Sen</span><span>Rab</span><span>Jum</span><span>Min</span></div></div></div>
+        </article>
+        <article class="sl-feature-card">
+          <span class="sl-feature-icon sl-icon-purple">▦</span><h3>Stok selalu terpantau</h3><p>Ketahui pergerakan barang dan persediaan dengan lebih praktis.</p><a href="#stok">Lihat detail <span>→</span></a>
+          <div class="sl-stock-visual"><div class="sl-stock-row"><span class="sl-stock-thumb">▧</span><div><b>Produk A</b><small>SKU-1024</small></div><strong>128 <small>unit</small></strong></div><div class="sl-stock-row"><span class="sl-stock-thumb sl-thumb-lilac">▧</span><div><b>Produk B</b><small>SKU-1025</small></div><strong>86 <small>unit</small></strong></div><div class="sl-stock-row"><span class="sl-stock-thumb sl-thumb-peach">▧</span><div><b>Produk C</b><small>SKU-1026</small></div><strong>54 <small>unit</small></strong></div></div>
+        </article>
+        <article class="sl-feature-card">
+          <span class="sl-feature-icon sl-icon-green">⌁</span><h3>Laporan lebih bermakna</h3><p>Ubah data menjadi insight untuk membantu keputusan bisnis.</p><a href="#laporan">Lihat detail <span>→</span></a>
+          <div class="sl-report-visual"><div class="sl-report-ring"><div><b>78%</b><small>Target tercapai</small></div></div><div class="sl-report-legend"><span><i></i>Pendapatan <b>+24%</b></span><span><i></i>Biaya <b>-8%</b></span><span><i></i>Margin <b>+12%</b></span></div></div>
+        </article>
+      </div>
+    </section>
+
+    <section class="sl-cta-band" id="demo"><div><span class="sl-kicker">LANGKAH BERIKUTNYA</span><h2>Bisnis Anda layak dikelola<br> dengan cara yang lebih baik.</h2><p>Mulai rapikan operasional hari ini dan tumbuh dengan lebih percaya diri.</p></div><a class="sl-button sl-button-white" href="mailto:halo@example.com">Jadwalkan Demo <span>↗</span></a></section>
+
+    <section class="sl-solutions" id="solusi">
+      <div class="sl-section-heading"><div><span class="sl-kicker">SOLUSI UNTUK ANDA</span><h2>Dibuat untuk cara bisnis<br><span>Anda bertumbuh.</span></h2></div><div class="sl-carousel-controls"><button class="sl-carousel-prev" aria-label="Kartu sebelumnya">←</button><button class="sl-carousel-next" aria-label="Kartu berikutnya">→</button></div></div>
+      <div class="sl-carousel-window"><div class="sl-carousel-track">
+        <article class="sl-solution-card"><div class="sl-solution-art sl-art-one"><div class="sl-art-window"><span></span><span></span><span></span><div class="sl-art-lines"></div><div class="sl-art-chart"></div></div></div><small>01 / USAHA KECIL</small><h3>Kelola usaha dengan praktis</h3><p>Bangun proses yang rapi sejak hari pertama.</p><a href="#usaha">Temukan solusi →</a></article>
+        <article class="sl-solution-card"><div class="sl-solution-art sl-art-two"><div class="sl-art-doc"><span>INVOICE</span><b>INV-2048</b><i></i><i></i><i></i><strong>Rp12.500.000</strong></div><div class="sl-art-check">✓</div></div><small>02 / DISTRIBUSI</small><h3>Transaksi lebih terkontrol</h3><p>Hubungkan penjualan, stok, dan keuangan.</p><a href="#distribusi">Temukan solusi →</a></article>
+        <article class="sl-solution-card"><div class="sl-solution-art sl-art-three"><div class="sl-art-phone"><div class="sl-phone-top"></div><b>Ringkasan</b><span>Rp128,4 jt</span><div class="sl-phone-chart"></div><i></i><i></i></div></div><small>03 / JASA & PROFESIONAL</small><h3>Fokus pada pertumbuhan</h3><p>Lihat performa dan rencanakan langkah berikutnya.</p><a href="#jasa">Temukan solusi →</a></article>
+        <article class="sl-solution-card"><div class="sl-solution-art sl-art-four"><div class="sl-art-tiles"><i>↗</i><i>▦</i><i>◈</i><i>⌁</i></div></div><small>04 / MULTI-CABANG</small><h3>Data terhubung di setiap lokasi</h3><p>Jaga visibilitas operasional dari satu tempat.</p><a href="#cabang">Temukan solusi →</a></article>
+      </div></div>
+    </section>
+
+    <section class="sl-bottom-cta" id="harga"><div class="sl-bottom-icon">N</div><h2>Siap membawa bisnis ke level berikutnya?</h2><p>Mulai dengan langkah sederhana. Bangun sistem yang tumbuh bersama bisnis Anda.</p><a class="sl-button" href="#demo">Konsultasi Gratis <span>↗</span></a></section>
+  </main>
+  <footer class="sl-footer" id="artikel"><a class="sl-brand" href="#"><span class="sl-brand-mark">N</span><span>Nexa<span class="sl-brand-light">Books</span></span></a><p>Kelola dengan jelas. Bertumbuh dengan percaya diri.</p><div><a href="#fitur">Fitur</a><a href="#solusi">Solusi</a><a href="#harga">Harga</a><a href="mailto:halo@example.com">Kontak</a></div><small>© 2026 NexaBooks. Demo desain — sesuaikan dengan brand Anda.</small></footer>
+</main>
+</div>
+
+<style>
+/* All styles are scoped to #saas-landing to reduce conflicts with Divi. */
+#saas-landing{--sl-ink:#202239;--sl-muted:#77798d;--sl-pink:#ed4267;--sl-pink-dark:#d93259;--sl-blush:#fff4f6;--sl-line:#ececf2;--sl-purple:#7664d9;font-family:Inter,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;color:var(--sl-ink);font-size:15px;line-height:1.6;background:#fff;max-width:100%;overflow:hidden;border-radius:0}
+#saas-landing *{box-sizing:border-box}
+#saas-landing a{color:inherit;text-decoration:none}
+#saas-landing button{font:inherit;cursor:pointer}
+#saas-landing .sl-nav{max-width:1200px;margin:0 auto;padding:22px 28px;display:flex;align-items:center;gap:34px;position:relative;z-index:10}
+#saas-landing .sl-brand{display:inline-flex;align-items:center;gap:10px;font-size:22px;font-weight:800;letter-spacing:-.8px;white-space:nowrap}
+#saas-landing .sl-brand-mark{display:grid;place-items:center;width:34px;height:34px;background:var(--sl-pink);color:white;border-radius:11px 11px 11px 4px;font-size:19px;box-shadow:0 7px 18px #ed42672b}
+#saas-landing .sl-brand-light{font-weight:500;color:#77798d}
+#saas-landing .sl-nav-links{display:flex;gap:27px;margin-left:auto;align-items:center}
+#saas-landing .sl-nav-links a,#saas-landing .sl-login{font-size:13px;font-weight:600;color:#4e5065;transition:color .2s}
+#saas-landing .sl-nav-links a:hover,#saas-landing .sl-login:hover{color:var(--sl-pink)}
+#saas-landing .sl-nav-links a span{color:#a4a5b3;margin-left:3px}
+#saas-landing .sl-nav-actions{display:flex;align-items:center;gap:21px}
+#saas-landing .sl-button{display:inline-flex;justify-content:center;align-items:center;gap:20px;background:var(--sl-pink);color:#fff;padding:13px 19px;border-radius:10px;font-size:13px;font-weight:700;box-shadow:0 8px 20px #ed42672b;transition:transform .2s,background .2s}
+#saas-landing .sl-button:hover{background:var(--sl-pink-dark);transform:translateY(-2px)}
+#saas-landing .sl-button-small{padding:10px 14px;gap:12px}
+#saas-landing .sl-button-outline{background:white;border:1px solid #e7e7ee;box-shadow:none;color:var(--sl-ink)}
+#saas-landing .sl-button-outline:hover{background:#fff8fa;color:var(--sl-pink)}
+#saas-landing .sl-menu-toggle{display:none;border:1px solid var(--sl-line);background:#fff;border-radius:8px;padding:7px 11px}
+#saas-landing .sl-hero{max-width:1200px;margin:0 auto;padding:67px 28px 70px;display:grid;grid-template-columns:1fr 1.02fr;align-items:center;gap:48px;position:relative}
+#saas-landing .sl-hero:before{content:"";position:absolute;z-index:0;width:60%;height:80%;right:-10%;top:8%;background:radial-gradient(ellipse,#fff0f3 0%,#fff 68%);pointer-events:none}
+#saas-landing .sl-hero-copy{position:relative;z-index:1}
+#saas-landing .sl-eyebrow,#saas-landing .sl-kicker{font-size:10px;letter-spacing:1.65px;font-weight:800;color:var(--sl-pink)}
+#saas-landing .sl-eyebrow{display:flex;align-items:center;gap:9px;margin-bottom:23px}
+#saas-landing .sl-eyebrow-dot{width:7px;height:7px;border-radius:50%;background:var(--sl-pink);box-shadow:0 0 0 5px #ed426715}
+#saas-landing .sl-hero h1{font-size:clamp(38px,4.2vw,58px);line-height:1.12;letter-spacing:-2.4px;font-weight:780;margin:0 0 22px;color:#202239}
+#saas-landing .sl-hero h1 span,#saas-landing .sl-section-heading h2 span{color:var(--sl-pink)}
+#saas-landing .sl-hero-description{font-size:15px;line-height:1.85;color:var(--sl-muted);max-width:470px;margin:0 0 27px}
+#saas-landing .sl-hero-buttons{display:flex;gap:12px;flex-wrap:wrap}
+#saas-landing .sl-play{font-size:10px;border:1px solid #e7e7ee;border-radius:50%;width:20px;height:20px;display:grid;place-items:center;padding-left:2px}
+#saas-landing .sl-trust-row{display:flex;align-items:center;gap:13px;margin-top:34px}
+#saas-landing .sl-avatar-stack{display:flex;padding-left:2px}
+#saas-landing .sl-avatar-stack span{width:28px;height:28px;border-radius:50%;border:2px solid white;background:#f5d9df;color:#a23a52;display:grid;place-items:center;font-size:10px;font-weight:800;margin-left:-4px}
+#saas-landing .sl-avatar-stack span:nth-child(2){background:#dedafa;color:#6355aa}#saas-landing .sl-avatar-stack span:nth-child(3){background:#d9eee6;color:#2c8164}#saas-landing .sl-avatar-stack span:nth-child(4){background:#292b43;color:#fff}
+#saas-landing .sl-trust-row strong,#saas-landing .sl-trust-row small{display:block;font-size:10px}
+#saas-landing .sl-trust-row strong{font-weight:700}#saas-landing .sl-trust-row small{color:#8b8c9d;margin-top:2px}
+#saas-landing .sl-hero-art{position:relative;z-index:1;min-width:0;padding:27px 10px 30px}
+#saas-landing .sl-orb{position:absolute;border-radius:50%;pointer-events:none}
+#saas-landing .sl-orb-one{width:340px;height:340px;background:#fff0f3;right:3%;top:0}
+#saas-landing .sl-orb-two{width:170px;height:170px;border:1px solid #f4cbd4;right:0;bottom:0}
+#saas-landing .sl-dashboard{position:relative;background:#fff;border:1px solid #f0edf1;border-radius:18px;padding:19px 20px 15px;box-shadow:0 24px 70px #25233d12;z-index:2}
+#saas-landing .sl-dash-top{display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid #f0eff4;padding-bottom:14px}
+#saas-landing .sl-dash-dot{display:inline-block;width:6px;height:6px;border-radius:50%;background:#e6e4eb;margin-right:4px}
+#saas-landing .sl-dash-period{font-size:9px;color:#77798d;background:#faf9fc;border:1px solid #f0eff4;padding:5px 8px;border-radius:6px}
+#saas-landing .sl-dash-heading{display:flex;justify-content:space-between;align-items:flex-start;padding:18px 0 4px}
+#saas-landing .sl-dash-heading small{font-size:10px;color:#88899a}
+#saas-landing .sl-dash-heading h3{font-size:24px;letter-spacing:-.7px;line-height:1.3;margin:5px 0;font-weight:750;color:#25263d}
+#saas-landing .sl-growth{font-size:9px;color:#269b78;font-weight:700}#saas-landing .sl-growth em{font-style:normal;color:#9899a7;font-weight:400}
+#saas-landing .sl-dash-icon{display:grid;place-items:center;width:31px;height:31px;border-radius:9px;background:#fff0f3;color:var(--sl-pink);font-weight:800}
+#saas-landing .sl-chart{height:160px;position:relative;padding:9px 0 19px 43px}
+#saas-landing .sl-chart-y{position:absolute;left:0;top:9px;bottom:24px;display:flex;flex-direction:column;justify-content:space-between;font-size:8px;color:#a0a1b0}
+#saas-landing .sl-chart svg{width:100%;height:125px;overflow:visible;background:repeating-linear-gradient(to bottom,transparent 0,transparent 30px,#f0eff4 31px,#f0eff4 32px)}
+#saas-landing .sl-chart-x{display:flex;justify-content:space-between;color:#a0a1b0;font-size:8px}
+#saas-landing .sl-dash-bottom{display:grid;grid-template-columns:1fr 1fr;gap:10px;border-top:1px solid #f0eff4;padding-top:14px}
+#saas-landing .sl-mini-stat{display:flex;align-items:center;gap:8px;min-width:0}
+#saas-landing .sl-mini-icon{display:grid;place-items:center;width:31px;height:31px;border-radius:9px;flex-shrink:0}
+#saas-landing .sl-mini-pink{background:#fff0f3;color:var(--sl-pink)}#saas-landing .sl-mini-purple{background:#f1efff;color:#7664d9}
+#saas-landing .sl-mini-stat small,#saas-landing .sl-mini-stat strong{display:block;white-space:nowrap}
+#saas-landing .sl-mini-stat small{font-size:8px;color:#8f90a0}#saas-landing .sl-mini-stat strong{font-size:10px}
+#saas-landing .sl-mini-stat>b{margin-left:auto;color:#2da783;font-size:12px}
+#saas-landing .sl-float-card{position:absolute;z-index:3;display:flex;align-items:center;gap:9px;padding:12px 14px;border:1px solid #f0edf2;border-radius:12px;background:#fff;box-shadow:0 12px 35px #27233d15}
+#saas-landing .sl-float-top{top:0;right:-10px}
+#saas-landing .sl-float-bottom{bottom:0;left:-22px}
+#saas-landing .sl-float-check,#saas-landing .sl-float-box{width:28px;height:28px;display:grid;place-items:center;border-radius:8px;background:#e9f8f1;color:#219b70;font-weight:800}
+#saas-landing .sl-float-box{background:#f1efff;color:#7664d9}
+#saas-landing .sl-float-card strong,#saas-landing .sl-float-card small{display:block;white-space:nowrap}
+#saas-landing .sl-float-card strong{font-size:10px}#saas-landing .sl-float-card small{font-size:8px;color:#8f90a0}
+#saas-landing .sl-float-card>b{font-size:10px;color:#269b78;margin-left:5px}
+#saas-landing .sl-float-arrow{color:#7664d9;margin-left:9px}
+#saas-landing .sl-proof{max-width:1144px;margin:0 auto;padding:24px 28px 29px;border-top:1px solid #f0eff4;border-bottom:1px solid #f0eff4;text-align:center}
+#saas-landing .sl-proof>p{font-size:9px;letter-spacing:1.6px;color:#9b9cab;font-weight:800;margin:0 0 19px}
+#saas-landing .sl-proof-items{display:flex;justify-content:space-around;gap:20px;flex-wrap:wrap;color:#6f7185;font-size:12px}
+#saas-landing .sl-proof-items span{display:flex;align-items:center;gap:8px}#saas-landing .sl-proof-items span:first-letter{color:var(--sl-pink)}#saas-landing .sl-proof-items b{color:#393b53}
+#saas-landing .sl-features,#saas-landing .sl-solutions{max-width:1200px;margin:0 auto;padding:88px 28px}
+#saas-landing .sl-section-heading{display:flex;align-items:flex-end;justify-content:space-between;gap:30px;margin-bottom:34px}
+#saas-landing .sl-section-heading h2{font-size:clamp(30px,3.3vw,43px);line-height:1.18;letter-spacing:-1.4px;margin:10px 0 0;font-weight:760}
+#saas-landing .sl-section-heading>p{max-width:350px;font-size:13px;line-height:1.8;color:var(--sl-muted);margin:0 0 4px}
+#saas-landing .sl-feature-grid{display:grid;grid-template-columns:1.15fr 1fr;gap:17px}
+#saas-landing .sl-feature-card{min-width:0;position:relative;border:1px solid #eeedf3;border-radius:17px;padding:25px;background:#fff;overflow:hidden;transition:box-shadow .25s,transform .25s}
+#saas-landing .sl-feature-card:hover{box-shadow:0 15px 45px #26233d0b;transform:translateY(-3px)}
+#saas-landing .sl-feature-large{grid-row:span 2;display:flex;flex-direction:column;min-height:440px;background:linear-gradient(145deg,#fff 50%,#fff8fa)}
+#saas-landing .sl-feature-icon{display:grid;place-items:center;width:38px;height:38px;border-radius:11px;font-size:17px;font-weight:800;margin-bottom:20px}
+#saas-landing .sl-icon-pink{color:var(--sl-pink);background:#fff0f3}#saas-landing .sl-icon-purple{color:#7664d9;background:#f1efff}#saas-landing .sl-icon-green{color:#299b79;background:#eaf8f2}
+#saas-landing .sl-feature-card h3{font-size:20px;letter-spacing:-.4px;line-height:1.35;margin:0 0 9px}
+#saas-landing .sl-feature-card p{font-size:12px;line-height:1.8;color:var(--sl-muted);max-width:360px;margin:0 0 15px}
+#saas-landing .sl-feature-card>a{display:inline-flex;gap:9px;align-items:center;font-size:11px;font-weight:750;color:var(--sl-pink)}
+#saas-landing .sl-feature-visual{margin-top:auto;padding-top:27px}
+#saas-landing .sl-finance-card{max-width:400px;margin:0 auto;background:white;border:1px solid #f0e9ee;border-radius:14px;padding:18px 20px;box-shadow:0 12px 30px #2d203d09}
+#saas-landing .sl-finance-card>small{display:block;font-size:9px;color:#88899a}
+#saas-landing .sl-finance-card>strong{display:block;font-size:22px;letter-spacing:-.6px;margin:4px 0 19px}
+#saas-landing .sl-finance-bars{height:100px;display:flex;align-items:flex-end;gap:9px;border-bottom:1px solid #eeeaf0;background:repeating-linear-gradient(to bottom,transparent 0,transparent 32px,#f4f1f5 33px,#f4f1f5 34px)}
+#saas-landing .sl-finance-bars i{display:block;flex:1;border-radius:5px 5px 0 0;background:linear-gradient(180deg,#f17a91,#f8c2cc)}
+#saas-landing .sl-finance-bars i:nth-child(3n){background:linear-gradient(180deg,#8c7de2,#d5cff9)}
+#saas-landing .sl-finance-labels{display:flex;justify-content:space-between;color:#a0a1af;font-size:8px;padding-top:8px}
+#saas-landing .sl-stock-visual{margin-top:19px;border:1px solid #f0eff4;border-radius:12px;padding:5px 12px}
+#saas-landing .sl-stock-row{display:flex;align-items:center;gap:9px;padding:10px 0;border-bottom:1px solid #f3f2f6}
+#saas-landing .sl-stock-row:last-child{border:0}
+#saas-landing .sl-stock-thumb{width:29px;height:29px;display:grid;place-items:center;border-radius:8px;background:#fff0f3;color:var(--sl-pink)}
+#saas-landing .sl-thumb-lilac{background:#f1efff;color:#7664d9}#saas-landing .sl-thumb-peach{background:#fff1e6;color:#d88948}
+#saas-landing .sl-stock-row b,#saas-landing .sl-stock-row small{display:block}
+#saas-landing .sl-stock-row b{font-size:10px}#saas-landing .sl-stock-row small{font-size:8px;color:#a0a1af}
+#saas-landing .sl-stock-row strong{margin-left:auto;font-size:11px}#saas-landing .sl-stock-row strong small{display:inline;font-weight:400}
+#saas-landing .sl-report-visual{display:flex;align-items:center;justify-content:space-around;gap:10px;margin-top:23px;padding:12px 0 0}
+#saas-landing .sl-report-ring{width:108px;height:108px;border-radius:50%;display:grid;place-items:center;background:conic-gradient(#ed4267 0 78%,#f8e8ed 78% 100%);position:relative}
+#saas-landing .sl-report-ring:before{content:"";position:absolute;inset:9px;border-radius:50%;background:white}
+#saas-landing .sl-report-ring>div{position:relative;text-align:center}
+#saas-landing .sl-report-ring b,#saas-landing .sl-report-ring small{display:block}
+#saas-landing .sl-report-ring b{font-size:21px;letter-spacing:-1px}#saas-landing .sl-report-ring small{font-size:8px;color:#8e8f9f}
+#saas-landing .sl-report-legend{display:grid;gap:10px;flex:1}
+#saas-landing .sl-report-legend span{display:grid;grid-template-columns:8px 1fr auto;align-items:center;gap:5px;font-size:8px;color:#77798d}
+#saas-landing .sl-report-legend i{width:6px;height:6px;border-radius:50%;background:#ed4267}#saas-landing .sl-report-legend span:nth-child(2) i{background:#8c7de2}#saas-landing .sl-report-legend span:nth-child(3) i{background:#45b994}#saas-landing .sl-report-legend b{color:#383a50;font-size:9px}
+#saas-landing .sl-cta-band{max-width:1144px;margin:0 auto;padding:38px 42px;border-radius:19px;background:#24253e;color:white;display:flex;align-items:center;justify-content:space-between;gap:30px;position:relative;overflow:hidden}
+#saas-landing .sl-cta-band:after{content:"";position:absolute;right:14%;top:-130px;width:300px;height:300px;border:1px solid #ffffff13;border-radius:50%;box-shadow:0 0 0 35px #ffffff06,0 0 0 70px #ffffff04;pointer-events:none}
+#saas-landing .sl-cta-band .sl-kicker{color:#ff9bb0}
+#saas-landing .sl-cta-band h2{font-size:clamp(24px,3vw,34px);line-height:1.2;letter-spacing:-.8px;margin:10px 0}
+#saas-landing .sl-cta-band p{font-size:12px;color:#c0c1d0;margin:0}
+#saas-landing .sl-button-white{background:#fff;color:#292a43;box-shadow:none;white-space:nowrap;position:relative;z-index:1}
+#saas-landing .sl-button-white:hover{background:#fff0f3;color:var(--sl-pink)}
+#saas-landing .sl-solutions{padding-top:88px;padding-bottom:80px}
+#saas-landing .sl-carousel-controls{display:flex;gap:8px}
+#saas-landing .sl-carousel-controls button{width:39px;height:39px;border-radius:10px;background:white;border:1px solid #e8e7ef;color:#46475c;font-size:18px;transition:all .2s}
+#saas-landing .sl-carousel-controls button:hover{background:var(--sl-pink);color:white;border-color:var(--sl-pink)}
+#saas-landing .sl-carousel-window{overflow:hidden}
+#saas-landing .sl-carousel-track{display:flex;gap:17px;transition:transform .45s ease;will-change:transform}
+#saas-landing .sl-solution-card{flex:0 0 calc(25% - 13px);min-width:0;border:1px solid #eeedf3;border-radius:15px;padding:12px 12px 19px;background:#fff}
+#saas-landing .sl-solution-art{height:155px;border-radius:10px;display:grid;place-items:center;overflow:hidden;position:relative;margin-bottom:17px}
+#saas-landing .sl-art-one{background:linear-gradient(135deg,#fff0f3,#f9e7f4)}#saas-landing .sl-art-two{background:linear-gradient(135deg,#f1efff,#e7e4fb)}#saas-landing .sl-art-three{background:linear-gradient(135deg,#e8f7f1,#d9f0e7)}#saas-landing .sl-art-four{background:linear-gradient(135deg,#fff2e8,#fbe6d6)}
+#saas-landing .sl-art-window{width:75%;height:105px;border:5px solid white;border-radius:9px;background:#fff;box-shadow:0 10px 25px #39304b12;position:relative;padding:13px}
+#saas-landing .sl-art-window>span{display:inline-block;width:5px;height:5px;background:#ed4267;border-radius:50%;margin-right:3px}
+#saas-landing .sl-art-lines{height:5px;width:43%;background:#eeedf4;border-radius:4px;margin-top:12px;box-shadow:0 12px #eeedf4,0 24px #eeedf4}
+#saas-landing .sl-art-chart{position:absolute;right:12px;bottom:14px;width:42%;height:48px;border-bottom:2px solid #ed4267;border-right:2px solid #ed4267;transform:skewY(-22deg);opacity:.75}
+#saas-landing .sl-art-doc{width:105px;height:125px;transform:rotate(-5deg);background:white;border-radius:8px;padding:14px;box-shadow:0 10px 30px #39304b14;position:relative}
+#saas-landing .sl-art-doc span,.sl-art-doc b{display:block;font-size:7px;color:#8e8f9f}
+#saas-landing .sl-art-doc b{font-size:11px;color:#292a43;margin-top:7px}
+#saas-landing .sl-art-doc i{display:block;height:4px;background:#eeedf4;border-radius:4px;margin-top:9px}
+#saas-landing .sl-art-doc strong{display:block;font-size:10px;color:#ed4267;margin-top:13px}
+#saas-landing .sl-art-check{position:absolute;right:22%;bottom:20%;width:31px;height:31px;display:grid;place-items:center;border-radius:50%;background:#45b994;color:white;border:4px solid #e8e4fa}
+#saas-landing .sl-art-phone{width:95px;height:145px;border:5px solid #fff;border-radius:15px;background:#fff;box-shadow:0 10px 30px #39304b16;padding:13px 8px;transform:rotate(6deg)}
+#saas-landing .sl-phone-top{width:24px;height:4px;border-radius:5px;background:#e5e4ec;margin:-7px auto 11px}
+#saas-landing .sl-art-phone b{display:block;font-size:8px}
+#saas-landing .sl-art-phone span{display:block;font-size:10px;font-weight:800;color:#ed4267;margin:5px 0}
+#saas-landing .sl-phone-chart{height:30px;background:linear-gradient(155deg,transparent 45%,#45b994 46%,#45b994 49%,transparent 50%);border-bottom:1px solid #eee}
+#saas-landing .sl-art-phone i{display:block;height:5px;background:#f0eff4;border-radius:4px;margin-top:8px}
+#saas-landing .sl-art-tiles{display:grid;grid-template-columns:repeat(2,55px);gap:8px;transform:rotate(-7deg)}
+#saas-landing .sl-art-tiles i{width:55px;height:55px;display:grid;place-items:center;border-radius:13px;background:white;box-shadow:0 7px 15px #6c493b12;font-style:normal;font-size:22px;color:#ed4267}
+#saas-landing .sl-art-tiles i:nth-child(2){color:#7664d9}#saas-landing .sl-art-tiles i:nth-child(3){color:#299b79}#saas-landing .sl-art-tiles i:nth-child(4){color:#d88948}
+#saas-landing .sl-solution-card>small{font-size:8px;letter-spacing:1.1px;color:var(--sl-pink);font-weight:800}
+#saas-landing .sl-solution-card h3{font-size:16px;line-height:1.4;margin:7px 0}
+#saas-landing .sl-solution-card p{font-size:11px;line-height:1.7;color:var(--sl-muted);margin:0 0 13px}
+#saas-landing .sl-solution-card>a{font-size:10px;font-weight:750;color:var(--sl-pink)}
+#saas-landing .sl-bottom-cta{text-align:center;padding:65px 25px 72px;background:#fff7f9;border-top:1px solid #fff0f3}
+#saas-landing .sl-bottom-icon{display:grid;place-items:center;width:39px;height:39px;border-radius:13px 13px 13px 4px;background:var(--sl-pink);color:white;font-size:19px;font-weight:800;margin:0 auto 17px;box-shadow:0 8px 20px #ed42672b}
+#saas-landing .sl-bottom-cta h2{font-size:clamp(25px,3vw,36px);line-height:1.25;letter-spacing:-1px;margin:0 0 11px}
+#saas-landing .sl-bottom-cta p{font-size:13px;color:var(--sl-muted);margin:0 auto 22px;max-width:530px}
+#saas-landing .sl-footer{max-width:1200px;margin:0 auto;padding:26px 28px 30px;display:grid;grid-template-columns:auto 1fr auto;align-items:center;gap:10px 25px}
+#saas-landing .sl-footer .sl-brand{font-size:18px}#saas-landing .sl-footer .sl-brand-mark{width:29px;height:29px;font-size:15px}
+#saas-landing .sl-footer p{font-size:10px;color:#898a9a;margin:0}
+#saas-landing .sl-footer>div{display:flex;gap:18px;font-size:10px;color:#66687c}
+#saas-landing .sl-footer>small{grid-column:1/-1;border-top:1px solid #f0eff4;padding-top:17px;font-size:9px;color:#a0a1af}
+@media(max-width:980px){
+ #saas-landing .sl-nav{gap:18px;padding:18px 22px}#saas-landing .sl-nav-links{gap:15px}#saas-landing .sl-nav-links a{font-size:12px}#saas-landing .sl-nav-actions{gap:12px}
+ #saas-landing .sl-hero{gap:24px;padding:55px 22px}#saas-landing .sl-hero h1{font-size:43px;letter-spacing:-1.7px}
+ #saas-landing .sl-float-top{right:-3px}#saas-landing .sl-float-bottom{left:-8px}
+ #saas-landing .sl-features,#saas-landing .sl-solutions{padding:70px 22px}
+ #saas-landing .sl-cta-band{margin:0 22px;padding:32px}
+ #saas-landing .sl-solution-card{flex-basis:calc(33.333% - 12px)}
+}
+@media(max-width:767px){
+ #saas-landing .sl-nav{padding:15px 18px;gap:12px;flex-wrap:wrap}
+ #saas-landing .sl-menu-toggle{display:block;margin-left:auto;order:2}
+ #saas-landing .sl-nav-actions{order:1;margin-left:auto;gap:12px}
+ #saas-landing .sl-nav-actions .sl-login{display:none}
+ #saas-landing .sl-nav-actions .sl-button{padding:9px 11px;font-size:11px}
+ #saas-landing .sl-nav-links{display:none;order:3;flex-basis:100%;margin:0;padding:14px 0 4px;border-top:1px solid #f0eff4;flex-direction:column;align-items:stretch;gap:0}
+ #saas-landing .sl-nav-links.sl-open{display:flex}
+ #saas-landing .sl-nav-links a{padding:10px 3px;font-size:13px}
+ #saas-landing .sl-hero{grid-template-columns:1fr;padding:47px 20px 53px;gap:27px}
+ #saas-landing .sl-hero h1{font-size:clamp(39px,10vw,53px);letter-spacing:-1.9px}
+ #saas-landing .sl-hero-description{font-size:14px}
+ #saas-landing .sl-hero-art{max-width:570px;width:100%;margin:0 auto;padding:25px 8px 25px}
+ #saas-landing .sl-dashboard{padding:15px}
+ #saas-landing .sl-dash-heading h3{font-size:21px}
+ #saas-landing .sl-float-top{right:-4px;top:0;transform:scale(.88);transform-origin:top right}
+ #saas-landing .sl-float-bottom{left:-3px;bottom:0;transform:scale(.88);transform-origin:bottom left}
+ #saas-landing .sl-proof{padding:23px 18px}
+ #saas-landing .sl-proof-items{display:grid;grid-template-columns:1fr 1fr;text-align:left;gap:14px 10px}
+ #saas-landing .sl-proof-items span{font-size:10px}
+ #saas-landing .sl-features,#saas-landing .sl-solutions{padding:58px 18px}
+ #saas-landing .sl-section-heading{align-items:flex-start;flex-direction:column;gap:14px;margin-bottom:25px}
+ #saas-landing .sl-section-heading h2{font-size:34px}
+ #saas-landing .sl-section-heading>p{font-size:12px}
+ #saas-landing .sl-feature-grid{grid-template-columns:1fr}
+ #saas-landing .sl-feature-large{grid-row:auto;min-height:420px}
+ #saas-landing .sl-feature-card{padding:22px}
+ #saas-landing .sl-cta-band{margin:0 18px;padding:28px 24px;align-items:flex-start;flex-direction:column;gap:20px}
+ #saas-landing .sl-cta-band h2{font-size:28px}
+ #saas-landing .sl-solution-card{flex-basis:calc(80% - 10px)}
+ #saas-landing .sl-carousel-controls{align-self:flex-end}
+ #saas-landing .sl-solution-art{height:150px}
+ #saas-landing .sl-bottom-cta{padding:52px 20px}
+ #saas-landing .sl-footer{grid-template-columns:1fr auto;padding:24px 20px;gap:12px}
+ #saas-landing .sl-footer p{grid-column:1/-1;grid-row:2}
+ #saas-landing .sl-footer>div{grid-column:1/-1;grid-row:3;flex-wrap:wrap}
+ #saas-landing .sl-footer>small{grid-row:4}
+}
+@media(prefers-reduced-motion:reduce){#saas-landing *,#saas-landing *:before,#saas-landing *:after{scroll-behavior:auto!important;transition:none!important}}
+</style>
+<script>
+(function(){
+  var root=document.getElementById('saas-landing');
+  if(!root || root.dataset.slReady==='1') return;
+  root.dataset.slReady='1';
+  var toggle=root.querySelector('.sl-menu-toggle');
+  var nav=root.querySelector('.sl-nav-links');
+  if(toggle && nav){
+    toggle.addEventListener('click',function(){
+      var open=nav.classList.toggle('sl-open');
+      toggle.setAttribute('aria-expanded',String(open));
+      toggle.innerHTML=open?'✕':'☰';
+    });
+    nav.querySelectorAll('a').forEach(function(link){link.addEventListener('click',function(){nav.classList.remove('sl-open');toggle.setAttribute('aria-expanded','false');toggle.innerHTML='☰';});});
+  }
+  var track=root.querySelector('.sl-carousel-track');
+  var cards=track ? Array.from(track.children) : [];
+  var index=0;
+  function visibleCount(){return window.matchMedia('(max-width:767px)').matches?1:(window.matchMedia('(max-width:980px)').matches?2:3);}
+  function move(){
+    if(!track || !cards.length) return;
+    var max=Math.max(0,cards.length-visibleCount());
+    index=Math.min(Math.max(index,0),max);
+    var cardWidth=cards[0].getBoundingClientRect().width;
+    var gap=parseFloat(getComputedStyle(track).gap)||0;
+    track.style.transform='translateX('+(-index*(cardWidth+gap))+'px)';
+  }
+  var prev=root.querySelector('.sl-carousel-prev'),next=root.querySelector('.sl-carousel-next');
+  if(prev) prev.addEventListener('click',function(){index=Math.max(0,index-1);move();});
+  if(next) next.addEventListener('click',function(){var max=Math.max(0,cards.length-visibleCount());index=index>=max?0:index+1;move();});
+  window.addEventListener('resize',move);
+  move();
+})();
+</script>

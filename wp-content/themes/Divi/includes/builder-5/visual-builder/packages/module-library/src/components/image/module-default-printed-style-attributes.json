@@ -1,0 +1,24 @@
+{
+  "_comment": "!!! THIS IS AN AUTOMATICALLY GENERATED FILE - DO NOT EDIT !!!",
+  "module": {
+    "advanced": {
+      "align": {
+        "desktop": {
+          "value": "left"
+        }
+      }
+    }
+  },
+  "image": {
+    "decoration": {
+      "fit": {
+        "desktop": {
+          "value": {
+            "objectFit": "fill",
+            "objectPosition": "center center"
+          }
+        }
+      }
+    }
+  }
+}

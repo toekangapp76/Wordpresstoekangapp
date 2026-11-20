@@ -1,0 +1,118 @@
+{
+  "_comment": "!!! THIS IS AN AUTOMATICALLY GENERATED FILE - DO NOT EDIT !!!",
+  "module": {
+    "decoration": {
+      "layout": {
+        "desktop": {
+          "value": {
+            "flexDirection": "column"
+          }
+        }
+      },
+      "border": {
+        "desktop": {
+          "value": {
+            "styles": {
+              "all": {
+                "width": "1px",
+                "color": "#bebebe",
+                "style": "solid"
+              }
+            }
+          }
+        }
+      },
+      "spacing": {
+        "desktop": {
+          "value": {
+            "margin": {
+              "top": "30px",
+              "right": "-1px",
+              "bottom": "0",
+              "left": "0"
+            },
+            "padding": {
+              "top": "0",
+              "right": "0",
+              "bottom": "30px",
+              "left": "0"
+            }
+          }
+        }
+      }
+    }
+  },
+  "currencyFrequency": {
+    "decoration": {
+      "font": {
+        "font": {
+          "desktop": {
+            "value": {
+              "size": "16px"
+            }
+          }
+        }
+      }
+    }
+  },
+  "subtitle": {
+    "decoration": {
+      "font": {
+        "font": {
+          "desktop": {
+            "value": {
+              "size": "16px",
+              "lineHeight": "1em"
+            }
+          }
+        }
+      }
+    }
+  },
+  "title": {
+    "decoration": {
+      "font": {
+        "font": {
+          "desktop": {
+            "value": {
+              "size": "22px",
+              "lineHeight": "1em"
+            }
+          }
+        }
+      }
+    }
+  },
+  "price": {
+    "decoration": {
+      "font": {
+        "font": {
+          "desktop": {
+            "value": {
+              "size": "80px",
+              "lineHeight": "82px"
+            }
+          }
+        }
+      },
+      "border": {
+        "desktop": {
+          "value": {
+            "styles": {
+              "all": {
+                "width": "0px",
+                "color": "#bebebe",
+                "style": "solid"
+              },
+              "bottom": {
+                "width": "1px",
+                "color": "#bebebe",
+                "style": "solid"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

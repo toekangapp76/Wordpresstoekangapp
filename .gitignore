@@ -1,0 +1,44 @@
+# --- Credentials / secrets ---
+wp-config.php
+.env
+*.pem
+*.key
+
+# --- Local backups & dumps ---
+*.sql
+*.sql.gz
+*.sql.zip
+.htaccess.bk
+.htaccess.before-local-fix
+
+# --- Transient WordPress files ---
+wp-content/upgrade/
+wp-content/upgrade-temp-backup/
+wp-content/uploads/cache/
+wp-content/backup-db/
+wp-content/backups/
+wp-content/blogs.dir/
+
+# --- Caches (regenerated automatically) ---
+wp-content/cache/
+wp-content/et-cache/
+wp-content/litespeed/
+wp-content/advanced-cache.php
+wp-content/object-cache.php
+
+# --- Logs & debug ---
+*.log
+wp-content/debug.log
+wp-content/uploads/wc-logs/
+wp-content/uploads/woocommerce_uploads/
+error_log
+
+# --- OS / editor cruft ---
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+*.swp
+*~
+.idea/
+.vscode/
